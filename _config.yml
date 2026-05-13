@@ -1,0 +1,11 @@
+title: dantheman-delta
+description: My GitHub Pages site
+url: "https://dantheman-delta.github.io"
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
